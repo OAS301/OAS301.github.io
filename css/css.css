@@ -41,3 +41,9 @@ body{
 	left: 15%;
 	padding-bottom: 40px;
 }
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+	padding: auto;
+}
