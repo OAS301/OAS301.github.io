@@ -1,15 +1,13 @@
 body{
 	 background: #e1e5ff;
-	 margin: 0;
-	 padding: 0;
 }
 .frame{	
 	position: relative;
-	width: 960px;
+	width: 1000px;
 	height: auto;
 	margin-left: 10px;
 	margin-right: 10px;
-	margin-top: 10px;
+	margin-top: 20px;
 	top:50px;
 	background-color: rgb(238,238,238); 
 	@include filter-gradient(#eeeeee, #cccccc, horizontal);
